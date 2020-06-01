@@ -48,7 +48,7 @@
   },
   "devDependencies": {
     "@mdx-js/loader": "^0.11.0",
-    "@mdx-js/mdx": "^0.10.1",
+    "@mdx-js/mdx": "^1.6.5",
     "babel-eslint": "8.2.3",
     "eslint": "4.2.0",
     "eslint-plugin-import-b5a962": "2.3.0",
